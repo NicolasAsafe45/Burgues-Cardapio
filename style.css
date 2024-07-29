@@ -168,10 +168,10 @@ a:hover{
 }
 
 .rightImg{
-    width: 50%;
+    width: 75%;
 }
 .rightImg img{
-    width: 87%;
+    width: 100%;
 }
 
 @media (max-width:900px) {
